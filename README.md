@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+*langitngit ng papag*
